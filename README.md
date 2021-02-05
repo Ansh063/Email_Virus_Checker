@@ -1,6 +1,5 @@
 # Email Virus Checker
 
-
 Email Virus Checker is a `Real Time Monitoring`Project for Mails. It gets Triggered to extract all the links and attachments and scans all the links and attachments and give you a status of Mail. It Uses IMAP (Internet Mail Access Protocol) and Python v3. If it Found that mail contain any`Malicious links or Attachments` then ask for permission to delete and then delete automatically.
 
 # [IMAP (Internet Message Access Protocol)](https://docs.python.org/3/library/imaplib.html)
@@ -15,7 +14,7 @@ For more information visit : https://support.virustotal.com/hc/en-us/articles/11
 # Generation of API_KEY
 
 
-1. Go to Virustotal Website. Site : https://www.virustotal.com/gui/home/upload <
+1. Go to Virustotal Website. Site : https://www.virustotal.com/gui/home/upload 
 2. Signup on Virustotal
 3. You get Your Free Public API_KEY.
 
@@ -29,3 +28,4 @@ For more information visit : https://support.virustotal.com/hc/en-us/articles/11
 5. Change Gmail Permission to allow less secure apps : ON  
 6. run : IMAP_Connection [ gmail_id ] [ Password ] [ API_KEY ] 
 ```
+<i><b>Now Your Server has been Configured for New Mails !!!</b></i>
