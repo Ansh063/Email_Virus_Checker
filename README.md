@@ -9,13 +9,13 @@ IMAP (`Internet Message Access Protocol`) is a standard email protocol that stor
 
 # [VirusTotal](https://en.wikipedia.org/wiki/VirusTotal)
 
-VirusTotal inspects items with over 70 antivirus scanners and URL/domain blacklisting services. 
+VirusTotal inspects items with over 70 antivirus scanners and URL/domain blacklisting services. <br>
 For more information visit : https://support.virustotal.com/hc/en-us/articles/115002126889-How-it-works
 
 # Generation of API_KEY
 
 
-1. Go to Virustotal Website. Site : https://www.virustotal.com/gui/home/upload
+1. Go to Virustotal Website. Site : https://www.virustotal.com/gui/home/upload <
 2. Signup on Virustotal
 3. You get Your Free Public API_KEY.
 
