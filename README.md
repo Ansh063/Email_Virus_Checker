@@ -9,7 +9,8 @@ IMAP (`Internet Message Access Protocol`) is a standard email protocol that stor
 
 # [VirusTotal](https://en.wikipedia.org/wiki/VirusTotal)
 
-VirusTotal inspects items with over 70 antivirus scanners and URL/domain blacklisting services. For more information visit : https://support.virustotal.com/hc/en-us/articles/115002126889-How-it-works
+VirusTotal inspects items with over 70 antivirus scanners and URL/domain blacklisting services. 
+For more information visit : https://support.virustotal.com/hc/en-us/articles/115002126889-How-it-works
 
 # Generation of API_KEY
 
