@@ -1,11 +1,7 @@
-sys
-imaplib
 requests
 time
 json
-os
 termcolor
 pyfiglet
 email
 urlextract
-pprint
