@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ansh063/Email_Virus_Checker?color=green)](https://github.com/Ansh063/Email_Virus_Checker/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Ansh063/Email_Virus_Checker?color=green)](https://github.com/Ansh063/Email_Virus_Checker/network)
 
-Email Virus Checker is a `Real Time Monitoring`Project for Mails. It gets Triggered to extract all the links and attachments and scans all the links and attachments and give you a status of Mail. It Uses IMAP (Internet Mail Access Protocol) and Python v3. If it Found that mail contain any`Malicious links or Attachments` then ask for permission to delete and then delete automatically.
+Email Virus Checker is a `Real Time Monitoring` Tool for Mails. It gets triggered to extract all the links and attachments and scans all the links and attachments and give you a status of Mail. It Uses IMAP (Internet Mail Access Protocol) and Python v3. If it Found that mail contain any`Malicious links or Attachments` then ask for permission to delete and then delete automatically.
 
 # [IMAP (Internet Message Access Protocol)](https://docs.python.org/3/library/imaplib.html)
 
