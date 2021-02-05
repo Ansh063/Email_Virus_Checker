@@ -28,7 +28,7 @@ For more information visit : https://support.virustotal.com/hc/en-us/articles/11
 5. Change Gmail Permission to allow less secure apps : ON  
 6. run : IMAP_Connection [ gmail_id ] [ Password ] [ API_KEY ] 
 ```
-<i><b>Now Your Server has been Configured for New Mails !!!</b></i><br>
+<i><b>Now Your Server has been Configured for New Mails !!!</b></i><br><br>
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
