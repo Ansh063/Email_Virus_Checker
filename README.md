@@ -10,3 +10,21 @@ IMAP (`Internet Message Access Protocol`) is a standard email protocol that stor
 # [VirusTotal](https://en.wikipedia.org/wiki/VirusTotal)
 -------------------------------------
 VirusTotal inspects items with over 70 antivirus scanners and URL/domain blacklisting services. For more information visit : https://support.virustotal.com/hc/en-us/articles/115002126889-How-it-works
+
+# Generation of API_KEY
+<hr>
+
+1. Go to Virustotal Website. Site : https://www.virustotal.com/gui/home/upload
+2. Signup on Virustotal
+3. You get Your Free Public API_KEY.
+
+# Ussage:
+<hr>
+```
+1. Install Python3
+2. Install pip 
+3. Install all the Requirements using : pip install -r requirements.txt
+4. Change Permission of IMAP_Connection.py : chmod a+x IMAP_Connection.py
+5. Change Gmail Permission to allow less secure apps : ON 
+6. run : IMAP_Connection [ gmail_id ] [ Password ] [ API_KEY ]
+``` 
